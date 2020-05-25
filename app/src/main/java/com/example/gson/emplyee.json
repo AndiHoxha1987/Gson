@@ -1,0 +1,19 @@
+{
+  "address": {
+    "city": "Tirane",
+    "country": "Albania"
+  },
+  "age": 30,
+  "family": [
+    {
+      "age": 30,
+      "role": "Wife"
+    },
+    {
+      "age": 2,
+      "role": "Daughter"
+    }
+  ],
+  "first_name": "Andi",
+  "mail": "andial@gmail.com"
+}

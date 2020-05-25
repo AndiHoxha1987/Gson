@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         fromEmployeeGsonToJson();
 
         fromEmployeeJsonToGson();
+
+        fromEmployeeJsonToGsonArrayList();
     }
 
     private void fromEmployeeGsonToJson(){

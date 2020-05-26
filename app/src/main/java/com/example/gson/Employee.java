@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Employee {
 
-    //SerializedName is used when the name in gson is not the same with model class
     @Expose
     private String firstName;
     @Expose(serialize = false)

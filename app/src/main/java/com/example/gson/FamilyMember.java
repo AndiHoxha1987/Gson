@@ -12,4 +12,12 @@ public class FamilyMember {
         mRole = role;
         mAge = age;
     }
+
+    public String getmRole() {
+        return mRole;
+    }
+
+    public int getmAge() {
+        return mAge;
+    }
 }
